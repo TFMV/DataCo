@@ -1,0 +1,1 @@
+The repository contains a single zip file which contains a plurality of text files which can be used for building/testing data-driven application that rely on 'business like' data, including client and sales transactions.  It is free to use in whatever way you like.
